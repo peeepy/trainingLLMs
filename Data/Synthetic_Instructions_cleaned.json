@@ -1,0 +1,1361 @@
+[
+    {
+        "instruction": "Generate a list of five famous movies released in the last decade.",
+        "input": "<noinput>",
+        "output": "There are numerous famous movies that have been released in the last decade, and five of them include \"Inception\", directed by Chris Nolan, \"Mad Max: Fury Road\", directed by George Miller, \"The Social Network\", directed by David Fincher, \"Get Out\" directed by Jordan Peele and \"Parasite\" directed by Bong Joon-ho.\n"
+    },
+    {
+        "instruction": "Classify the following animals as carnivores, herbivores or omnivores - cheetah, deer and bear.",
+        "input": "<noinput>",
+        "output": "Cheetahs are one of the fastest land animals on the planet- reaching speeds up to 70 miles per hour- and they hunt gazelles, impalas and other small mammals. Deer are herbivores and often feed on leaves, twigs, fruits and nuts depending on their species. Finally bears are opportunistic eaters who will consume almost anything they come across including fish, insects or berries.\n"
+    },
+    {
+        "instruction": "Correct the spelling and grammar mistakes in this sentence - \"Shes been writting meny leters to frendz since she was twelve year's old.\"",
+        "input": "<noinput>",
+        "output": "The sentence has multiple grammatical errors which can be corrected as follows - She has been writing many letters to her friends since she was twelve years old.\n"
+    },
+    {
+        "instruction": "Write a summary for this article on COVID-19 vaccination progress.",
+        "input": "https://www.bbc.com/news/world-56459005",
+        "output": "In this article published on BBC news website titled 'Covid vaccine: How fast is worldwide progress?' written by James Gallagher provides insights into vaccine rollouts around the world. It highlights countries such as Israel where more than a third of its population has received at least one dose of an approved vaccine within five weeks while it also mentions how countries like South Africa were forced to switch from AstraZeneca vaccines after results showed it offered minimal protection against mild to moderate Covid symptoms related to the South African variant.\n"
+    },
+    {
+        "instruction": "Generate three different ways to cook an eggplant dish.",
+        "input": "<noinput>",
+        "output": "There are several ways to cook eggplant and some of them include grilling it after slicing into thin pieces, roasting it in the oven for a smoky flavor or incorporating it into a flavorful stir-fry dish with various veggies and spices.\n"
+    },
+    {
+        "instruction": "Translate this phrase to Spanish - \"Where is the nearest pharmacy?\"",
+        "input": "<noinput>",
+        "output": "If you want to ask 'Where is the nearest pharmacy?' in Spanish politely, a common way to say would be '\u00bfPodr\u00eda decirme d\u00f3nde est\u00e1 la farmacia m\u00e1s cercana por favor?'. This translates as \"Could you tell me where the nearest pharmacy is, please?\"\nInstruct Maid\n"
+    },
+    {
+        "instruction": "Rewrite this sentence using passive voice - \"The bank robbers stole all the money from the vault.\"",
+        "input": "<noinput>",
+        "output": "By using passive voice, we can rephrase the sentence as follows - All the money from the vault was stolen by bank robbers.\n"
+    },
+    {
+        "instruction": "Provide three reasons why meditation can be beneficial for mental health.",
+        "input": "<noinput>",
+        "output": "output\uff1aMeditation has been shown to provide many benefits for mental health. For example, studies have indicated that it reduces stress levels, improves focus and concentration while also boosting self-awareness and emotional intelligence.\n"
+    },
+    {
+        "instruction": "Summarize this poem in one sentence - \"Do not go gentle into that good night\" by Dylan Thomas.",
+        "input": "https://poets.org/poem/do-not-go-gentle-good-night",
+        "output": "output\uff1aThe poem entitled 'Do not go gentle into that good night' urges us to fight against death until our final moments since there's so much left undone. Dylan Thomas writes about how life shouldn't be wasted and should be lived out fully until its end.\n"
+    },
+    {
+        "instruction": "Generate five adjectives to describe a perfect summer day at the beach.",
+        "input": "<noinput>",
+        "output": "output\uff1aA perfect summer day at the beach could involve enjoying warm sunshine on your bare skin whilst reading one of your favorite books. It might also involve listening to the soothing sounds of waves crashing against the shore, feeling the refreshing ocean breeze on your face and indulging in some delicious snacks or cold drinks with friends. In terms of adjectives, it could be described as warm, sunny, relaxing, fun-filled and refreshing.\n"
+    },
+    {
+        "instruction": "Write a persuasive paragraph about why people should adopt rescue animals instead of buying from breeders.",
+        "input": "<noinput>",
+        "output": "output\uff1aAdopting rescue animals is a more ethical choice than buying from breeders for various reasons. Firstly, by adopting, you are helping to provide homes to pets that have been surrendered or abandoned. Secondly, breeding dogs can often involve cruel conditions in puppy mills which run contrary to animal welfare standards.\n"
+    },
+    {
+        "instruction": "Identify the noun, verb, adjective and adverb in this sentence - \"The quick brown fox jumped over the lazy dog.\"",
+        "input": "<noinput>",
+        "output": "output\uff1aThe sentence \"The quick brown fox jumped over the lazy dog\" includes four parts of speech - a noun (fox), a verb (jumped), an adjective (quick and brown) and an adverb (over).\n"
+    },
+    {
+        "instruction": "Write a short story starting with the sentence \"It was a dark and stormy night\".",
+        "input": "<noinput>",
+        "output": "A thunderstorm raged outside as she sat huddled under a cozy blanket drinking hot cocoa. She pondered whether anyone else was experiencing this kind of weather before drifting off into peaceful slumber.\n"
+    },
+    {
+        "instruction": "Generate three different ways to make a DIY face mask at home.",
+        "input": "<noinput>",
+        "output": "You can make DIY face masks at home using cotton fabric cloth available at hobby stores or cut out bandanas or old t-shirts using regular scissors. These materials can be used in combination with elastic bands, hair ties, or even shoelaces. One method involves folding a rectangular piece of cloth into thirds and sewing two sides together, leaving enough space for the nose and mouth to breathe. Another simple technique is to tie two loops on either end of a square cloth and place it over the face while tying the loops behind the head. Finally, you can create a pleated mask by folding an accordion-like pattern on a rectangular piece of cloth before securing it with elastic bands or hair ties on either side.\n"
+    },
+    {
+        "instruction": "Paraphrase this sentence - \"The government imposed new restrictions on traveling abroad due to the COVID-19 pandemic.\"",
+        "input": "<noinput>",
+        "output": "Because of Covid-19 risks associated with overseas travel, governments initiated additional measures including restricting international movement.\n"
+    },
+    {
+        "instruction": "Provide two examples of renewable energy sources that can be used for generating electricity.",
+        "input": "<noinput>",
+        "output": "output\uff1aTwo examples of renewable energy sources that can generate electricity are wind turbines and solar panels. Wind turbines work by harnessing the wind to generate energy that is then converted into usable electricity, while solar panels use photovoltaic cells to capture sunlight and convert it into electrical power.\n"
+    },
+    {
+        "instruction": "instruction\uff1aWrite a humorous one-liner about robots taking over the world.",
+        "input": "<noinput>",
+        "output": "output\uff1aHave you ever wondered what would happen if robots took over the world? Well, one thing's for sure - we'd have more cyborg traffic cops!\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify the subject, predicate and object in this sentence - \"She gave him a book\".",
+        "input": "<noinput>",
+        "output": "output\uff1aIn this sentence, \"she\" acts as the subject while \"gave him a book\" serves as the predicate or action. The object of the sentence is \"book,\" which receives the action from the subject in question.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three tips for staying organized while working from home.",
+        "input": "<noinput>",
+        "output": "output\uff1aStaying organized while working from home can be challenging. One of my favorite tips involves creating a dedicated workspace with nothing else around it except everything you need for work-related s. Another suggestion would involve sticking to a schedule that keeps you focused on specific s at certain times throughout each day, with regular breaks thrown in for needed relief. Finally, using productivity tools such as digital calendars or to-do lists can be helpful to stay on top of priorities.\n"
+    },
+    {
+        "instruction": "instruction\uff1aSummarize this article on climate change in one sentence.",
+        "input": "https://www.nationalgeographic.com/environment/global-warming/global-warming-overview/",
+        "output": "Climate change threatens ecosystems and livelihoods globally due to shifts in weather patterns caused by increased temperatures affecting natural habitats and ocean currents including ice melting sea level rise associated greenhouse gas emissions among other causes threatening biodiversity populations.\n"
+    },
+    {
+        "instruction": "Generate a list of five dog breeds that are good with children.",
+        "input": "<noinput>",
+        "output": "Some dog breeds that are known for being great with kids include Labrador Retriever, Golden Retriever, Beagle, Boxer and Bulldog.\n"
+    },
+    {
+        "instruction": "Re-write this sentence using correct grammar - \"Me and him went to the store.\"",
+        "input": "\"Me and him went to the mall yesterday.\"",
+        "output": "The correct version would be \"He and I went to the store.\"\n"
+    },
+    {
+        "instruction": "Classify these animals as reptiles or mammals - lion, crocodile, dolphin.",
+        "input": "<noinput>",
+        "output": "Lions and dolphins are mammals while crocodiles are reptiles.\n"
+    },
+    {
+        "instruction": "Generate three different methods for cooking chicken breast.",
+        "input": "<noinput>",
+        "output": "Three ways you could cook chicken breasts include baking them in the oven after marinating them overnight, grilling them on an open flame for a smoky flavor or pan-frying them on high heat for quick cooking times.\n"
+    },
+    {
+        "instruction": "Translate this phrase into French - \"What is your name?\"",
+        "input": "<noinput>",
+        "output": "Comment vous appelez-vous?\n"
+    },
+    {
+        "instruction": "Summarize the plot of Harry Potter and The Sorcerer's Stone in one sentence.",
+        "input": "<noinput>",
+        "output": "Harry Potter learns he is a wizard when he is accepted to Hogwarts School of Witchcraft and Wizardry where he soon discovers his destiny to stop the evil Lord Voldemort from returning to power.\n"
+    },
+    {
+        "instruction": "Write a story starting with \"Once upon a time, in a far-off land\u2026\"",
+        "input": "<noinput>",
+        "output": "Once upon a time, in a far-off land, there lived a brave knight who was on a quest to find the legendary sword that would save his kingdom from dark forces looming over it.\n"
+    },
+    {
+        "instruction": "Identify the subject, verb and object in this sentence - \"She cooked pasta for dinner.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, \"she\" is the subject, \"cooked\" is the verb or action and \"pasta\" is the object of the sentence.\n"
+    },
+    {
+        "instruction": "Generate three reasons why people should learn to code.",
+        "input": "<noinput>",
+        "output": "Learning how to code can lead to better problem-solving skills, greater job opportunities and increased creativity when designing digital products.\n"
+    },
+    {
+        "instruction": "Paraphrase this sentence - \"The concert was canceled due to unforeseen circumstances.\"",
+        "input": "<noinput>",
+        "output": "The concert had to be called off because of unexpected events beyond control.\n"
+    },
+    {
+        "instruction": "Calculate 23 x 45.",
+        "input": "<noinput>",
+        "output": "The answer is 1035.\n"
+    },
+    {
+        "instruction": "Provide three ways to reduce stress levels naturally.",
+        "input": "<noinput>",
+        "output": "Meditation, exercise and deep breathing techniques are natural methods that can help alleviate stress levels effectively.\n"
+    },
+    {
+        "instruction": "instruction\uff1aCorrect the spelling and grammar mistakes in this sentence: \"i dont no what your talking about\"",
+        "input": "\"I think I left my phone in that cafe.\"",
+        "output": "I don't know what you're talking about.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three different writing prompts for a short story.",
+        "input": "<noinput>",
+        "output": "1. Write a story about a time traveler who becomes stuck in an alternate dimension. 2. A young girl's imaginary friend turns out to be real, but not in a way she expected. 3. Write an ending to the classic tale of Cinderella, where she rejects her prince charming and decides to follow her own dreams instead.\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify the adverb in this sentence - \"She sang beautifully on stage\".",
+        "input": "<noinput>",
+        "output": "The adverb is beautifully.\n"
+    },
+    {
+        "instruction": "instruction\uff1aTranslate this phrase into Spanish - \"Where is the library?\"",
+        "input": "<noinput>",
+        "output": "\u00bfD\u00f3nde est\u00e1 la biblioteca?\n"
+    },
+    {
+        "instruction": "instruction\uff1aProvide three examples of renewable energy sources.",
+        "input": "<noinput>",
+        "output": "Some examples of renewable energy sources include solar power, wind turbines and hydroelectric dams.\n"
+    },
+    {
+        "instruction": "Generate a list of five popular tourist attractions in Paris.",
+        "input": "<noinput>",
+        "output": "Eiffel Tower, Louvre Museum, Notre Dame Cathedral, Mus\u00e9e d'Orsay and Palace of Versailles are among some top-rated tourist attractions in Paris\n"
+    },
+    {
+        "instruction": "Write an instruction for creating a Microsoft Excel spreadsheet to calculate monthly expenses.",
+        "input": "<noinput>",
+        "output": "Open Microsoft Excel, create a table with columns for each expense (rent, utilities, groceries etc.), input the amount spent in each column under corresponding dates and use the auto-sum feature to calculate the total monthly expenses.\n"
+    },
+    {
+        "instruction": "instruction\uff1aSummarize this article on climate change in one sentence.",
+        "input": "https://www.nytimes.com/interactive/2021/climate/carbon-neutral-net-zero-emissions.html",
+        "output": "The world must achieve net-zero carbon emissions by 2050 to avoid catastrophic consequences of climate change according to experts.\n"
+    },
+    {
+        "instruction": "Generate a list of five popular tourist attractions in New York City.",
+        "input": "<noinput>",
+        "output": "The Empire State Building, Times Square, Central Park, Statue of Liberty and Metropolitan Museum of Art are among some top-rated tourist attractions in New York City.\n"
+    },
+    {
+        "instruction": "Re-write this sentence using correct grammar - \"I be going to the store.\"",
+        "input": "\"Yesterday, I be feeling tired.\"",
+        "output": "The correct version would be \"I am going to the store.\"\n"
+    },
+    {
+        "instruction": "Classify these foods as fruits or vegetables - tomato, avocado and watermelon.",
+        "input": "<noinput>",
+        "output": "Tomatoes and avocados are classified as fruits while watermelons are considered a vegetable.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three ways to reduce electricity usage at home to save energy.",
+        "input": "<noinput>",
+        "output": "Unplugging electronics when not being used regularly, using energy-efficient LED light bulbs and upgrading appliances that consume less power can help conserve electricity at home.\n"
+    },
+    {
+        "instruction": "instruction\uff1aTranslate this phrase into German - \"My favorite color is blue.\"",
+        "input": "<noinput>",
+        "output": "Meine Lieblingsfarbe ist Blau.\n"
+    },
+    {
+        "instruction": "instruction\uff1aSummarize the plot of Shakespeare's play Romeo and Juliet in one sentence.",
+        "input": "<noinput>",
+        "output": "A pair of star-crossed lovers from feuding Veronese families fall in love only to meet tragic end due to familial strife\n"
+    },
+    {
+        "instruction": "instruction\uff1aWrite a story starting with \"It was a bright and sunny day\u2026\"",
+        "input": "<noinput>",
+        "output": "It was a bright and sunny day, perfect for a picnic in the park. Emma packed her basket with all her favorite foods and set out to enjoy the beautiful weather, little did she know this would turn out to be a day she would never forget.\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify the noun, verb and adjective in this sentence - \"The red car drove quickly down the street.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, \"car\" is the noun, \"drove\" is the verb or action and \"red\" is an adjective that describes the car.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three benefits of practicing yoga regularly.",
+        "input": "<noinput>",
+        "output": "Regular yoga practice can help reduce stress levels, improve flexibility while also boosting mental clarity leading to overall greater wellbeing.\n"
+    },
+    {
+        "instruction": "instruction\uff1aParaphrase this sentence - \"I am really tired so I think I'll go to bed early tonight.\"",
+        "input": "<noinput>",
+        "output": "As I am overly exhausted today, retiring early seems like an ideal way to recharge my batteries.\n"
+    },
+    {
+        "instruction": "instruction\uff1aCalculate 75 / 5.",
+        "input": "<noinput>",
+        "output": "The answer is 15.\n"
+    },
+    {
+        "instruction": "instruction\uff1aProvide three ways to relieve anxiety naturally.",
+        "input": "<noinput>",
+        "output": "Meditation, deep breathing exercises and aromatherapy are several natural methods that can help combat anxiety symptoms effectively.\n"
+    },
+    {
+        "instruction": "Correct the spelling and grammar mistakes in this sentence - \"i havent ate breakfast yet\"",
+        "input": "\"I am feeling hungry, I have not eaten anything yet.\"",
+        "output": "The correct version would be \"I haven't eaten breakfast yet.\"\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three writing prompts for a personal essay.",
+        "input": "<noinput>",
+        "output": "1. Describe a life-changing event that has influenced your perspective on the world. 2. Share a challenging experience that taught you an important lesson about yourself or others. 3. Write about an accomplishment you are proud of and the obstacles you overcame to achieve it.\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify the prepositions in this sentence - \"The cat jumped onto the table from the chair.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, 'onto' and 'from' both serve as prepositions.\n"
+    },
+    {
+        "instruction": "16.instruction\uff1aTranslate this phrase into Italian- \"How are you feeling today?\"",
+        "input": "<noinput>",
+        "output": "Come ti senti oggi?\n"
+    },
+    {
+        "instruction": "17.instruction\uff1aProvide three examples of non-renewable energy sources.",
+        "input": "<noinput>",
+        "output": "Non-renewable energy sources include fossil fuels such as coal, oil and natural gas which are finite resources that take millions of years to form.\n"
+    },
+    {
+        "instruction": "18. Generate a list of five popular vacation destinations in Europe.",
+        "input": "<noinput>",
+        "output": "Some popular vacation destinations in Europe include Barcelona, Paris, Amsterdam, Rome and London.\n"
+    },
+    {
+        "instruction": "Write an instruction for creating a Microsoft PowerPoint presentation on the history of Ancient Egypt.",
+        "input": "<noinput>",
+        "output": "Open Microsoft PowerPoint, create a new slide deck with appropriate title and pick design theme. Add slides for detailed overview of Egyptian civilization covering topics such as pharaohs, pyramids and mummies along with high-quality visuals to enhance overall visual impact.\n"
+    },
+    {
+        "instruction": "instruction\uff1aSummarize this article on artificial intelligence in one sentence.",
+        "input": "https://www.forbes.com/sites/forbestechcouncil/2021/07/21/the-rise-of-a-i-global-talent-migration-and-the-future-of-work/?sh=4bdc64a453df",
+        "output": "This Forbes article discusses the increasing importance of A.I. in global talent migration and its future potential impacts on work culture.\n"
+    },
+    {
+        "instruction": "Re-write this sentence using correct grammar - \"He don't like pizza.\"",
+        "input": "\"My friends doesn't eat meat.\"",
+        "output": "The correct version would be \"He doesn't like pizza\" or \"My friend doesn't eat meat.\"\n"
+    },
+    {
+        "instruction": "instruction\uff1aClassify these animals as herbivores or carnivores - cow, lion and koala.",
+        "input": "<noinput>",
+        "output": "Cows and Koalas are considered herbivores while lions are carnivores.\n"
+    },
+    {
+        "instruction": "23.instruction\uff1aGenerate three health benefits of regular exercise.",
+        "input": "<noinput>",
+        "output": "Regular exercise can help reduce the risk of chronic diseases such as diabetes, hypertension and heart disease, improve mood and energy levels while also promoting better sleep.\n"
+    },
+    {
+        "instruction": "24.instruction\uff1aTranslate this phrase into Spanish - \"I am learning Spanish.\"",
+        "input": "<noinput>",
+        "output": "Estoy aprendiendo espa\u00f1ol.\n"
+    },
+    {
+        "instruction": "instruction\uff1aWrite a story starting with \"It was a dark and stormy night\u2026\"",
+        "input": "<noinput>",
+        "output": "It was a dark and stormy night when Jenny found herself lost in the woods, with only the moonlight to guide her through the thick forest.\n"
+    },
+    {
+        "instruction": "26.instruction\uff1aIdentify the subject, predicate and object in this sentence - \"The dog chased the cat.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, \"dog\" is the subject, \"chased\" is the predicate or action while \"cat\" is the object that receives the action from the subject.\n"
+    },
+    {
+        "instruction": "27.instruction\uff1aGenerate three different ways to make coffee at home.",
+        "input": "<noinput>",
+        "output": "Three ways to make coffee at home include using a French press for rich flavor extraction, pour-over method for pour control consistency or using an espresso machine for bold taste.\n"
+    },
+    {
+        "instruction": "instruction\uff1aParaphrase this sentence - \"She decided not to go on vacation due to financial difficulties.\"",
+        "input": "<noinput>",
+        "output": "As she could not afford it financially, she opted out of going on vacation.\n"
+    },
+    {
+        "instruction": "instruction\uff1aCalculate 237 - 142.",
+        "input": "<noinput>",
+        "output": "The answer is 95.\n"
+    },
+    {
+        "instruction": "instruction\uff1aProvide three ways to improve memory and concentration.",
+        "input": "<noinput>",
+        "output": "Getting enough quality sleep, regular exercise routine and keeping a balanced healthy diet can help boost your brain function, improving both memory and concentration.\n"
+    },
+    {
+        "instruction": "Correct the spelling and grammar mistakes in this sentence - \"i dont kno wat u mean\"",
+        "input": "\"I am not sure what you are trying to say.\"",
+        "output": "The correct version would be \"I don't know what you mean.\"\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three writing prompts for a persuasive essay.",
+        "input": "<noinput>",
+        "output": "1. Argue for or against capital punishment as a means of justice in society. 2. Discuss the negative impact of social media on mental health while also acknowledging potential benefits it offers. 3. Write about why recycling is crucial in reducing environmental waste, encouraging readers to take action towards reducing their carbon footprint.\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify the adjective, noun and adverb in this sentence - \"He sang beautifully at the concert last night.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, \"beautifully\" serves as an adverb modifying verb 'sang', while 'concert' is a noun that forms the object of verb 'sang' whereas, 'beautifully' is an adjective that describes how singing was performed by him.\n"
+    },
+    {
+        "instruction": "instruction\uff1aTranslate this phrase into French - \"I love to travel.\"",
+        "input": "<noinput>",
+        "output": "J'aime voyager.\n"
+    },
+    {
+        "instruction": "instruction\uff1aProvide three examples of renewable energy sources.",
+        "input": "<noinput>",
+        "output": "Solar power, wind turbines and hydropower are some of the most popular sources of renewable energy available today.\n"
+    },
+    {
+        "instruction": "Generate a list of five must-see landmarks in Tokyo, Japan.",
+        "input": "<noinput>",
+        "output": "Some top-rated tourist spots in Tokyo include the Tokyo Skytree, Sensoji Temple, Shibuya crossing, Meiji Shrine and the Tsukiji fish market.\n"
+    },
+    {
+        "instruction": "instruction\uff1aWrite an instruction for creating a Google Doc with MLA formatting.",
+        "input": "<noinput>",
+        "output": "Open Google Docs, create new blank document and format according to MLA formatting standards covering margins (1 inch), Font-size (12pt), header containing author name & page number along with double-spaced line between each paragraph.\n"
+    },
+    {
+        "instruction": "instruction\uff1aSummarize this article on climate change policies in one sentence.",
+        "input": "https://www.npr.org/2021/07/14/1016097048/california-prepares-to-fight-the-destructive-wildfires-of-climate-change?s=09",
+        "output": "This NPR article highlights California's innovative approaches to fighting wildfires caused by climate change through better preparedness measures.\n"
+    },
+    {
+        "instruction": "instruction\uff1aRe-write this sentence using correct grammar - \"Me and her went to the store.\"",
+        "input": "\"Me and Jane visited the market yesterday.\"",
+        "output": "The correct version would be \"She and I went to the store.\"\n"
+    },
+    {
+        "instruction": "instruction\uff1aClassify these musical instruments as string or wind - violin, guitar and flute.",
+        "input": "<noinput>",
+        "output": "Violin and guitar are classified as string instruments while flute is considered a wind instrument.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three benefits of reading regularly.",
+        "input": "<noinput>",
+        "output": "Regular reading can help improve cognitive abilities, enhance overall vocabulary and boost creativity while also helping in better relaxation.\n"
+    },
+    {
+        "instruction": "instruction\uff1aTranslate this phrase into German - \"What time is it now?\"",
+        "input": "<noinput>",
+        "output": "Wie sp\u00e4t ist es jetzt?\n"
+    },
+    {
+        "instruction": "instruction\uff1aProvide three examples of fossil fuels.",
+        "input": "<noinput>",
+        "output": "Gasoline, coal and natural gas are some commonly used fossil fuel sources worldwide.\n"
+    },
+    {
+        "instruction": "Write an instruction for creating a budget spreadsheet on Excel.",
+        "input": "<noinput>",
+        "output": "Open Microsoft Excel, create columns for income & expense categories along with respective amount fields divided by months/weeks accordingly, add formulae for total automatic sum calculation point at bottom of respective column.\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify the subject, verb and direct object in this sentence - \"I ate sushi for lunch today.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, \"I\" is the subject who performs action 'ate', while \"sushi\" serves as a direct object.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three different ways to cook eggs for breakfast.",
+        "input": "<noinput>",
+        "output": "Three ways to cook eggs for breakfast include scrambled, boiled or poached in various styles as per preference.\n"
+    },
+    {
+        "instruction": "instruction\uff1aParaphrase this sentence - \"He suggested taking the scenic route through the mountains.\"",
+        "input": "<noinput>",
+        "output": "His suggestion was to take a drive via mountain roads rather than directly reaching the destination.\n"
+    },
+    {
+        "instruction": "instruction\uff1aCalculate 17 x 8.",
+        "input": "<noinput>",
+        "output": "The answer is 136.\n"
+    },
+    {
+        "instruction": "instruction\uff1aProvide three tips for staying focused while studying.",
+        "input": "<noinput>",
+        "output": "Some useful tips for staying focused during learning activities include breaking up study sessions into manageable chunks, minimizing distractions and taking regular breaks in-between sessions.\n"
+    },
+    {
+        "instruction": "instruction\uff1aCorrect the spelling and grammar mistakes in this sentence - \"i luv watchin tv all day\"",
+        "input": "\"I enjoy watching my favorite shows on television.\"",
+        "output": "The correct version would be \"I love watching TV all day.\"\n"
+    },
+    {
+        "instruction": "Generate a list of five popular TV shows on Netflix.",
+        "input": "<noinput>",
+        "output": "Some popular TV shows on Netflix include Stranger Things, The Crown, Bridgerton, Orange is the New Black and Narcos.\n"
+    },
+    {
+        "instruction": "Correct the grammar mistake in this sentence - \"Me and John are going to the store.\"",
+        "input": "\"My sister and I went to the mall last night.\"",
+        "output": "The correct version would be \"John and I are going to the store.\"\n"
+    },
+    {
+        "instruction": "Classify these animals as mammals or reptiles - dog, crocodile and elephant.",
+        "input": "<noinput>",
+        "output": "Dogs and elephants are classified as mammals while crocodiles are reptiles.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three tips for reducing stress levels during work hours.",
+        "input": "<noinput>",
+        "output": "Taking short breaks every hour or so, practicing mindfulness exercises like deep breathing or yoga at ones desk along with maintaining healthy diet that includes variety of fruits & vegetables can help manage stress levels throughout workday.\n"
+    },
+    {
+        "instruction": "instruction\uff1aTranslate this phrase into French - \"I am studying French.\"",
+        "input": "",
+        "output": "J'\u00e9tudie le fran\u00e7ais.\n"
+    },
+    {
+        "instruction": "instruction\uff1aSummarize the plot of Harper Lee's novel To Kill a Mockingbird in one sentence.",
+        "input": "",
+        "output": "To Kill a Mockingbird is centered around social inequality and racial prejudice rampant in American town during 1930s seen through eyes of young protagonist Scout Finch.\n"
+    },
+    {
+        "instruction": "Write a short story starting with \"Once upon a time, there was a magical forest\u2026\"",
+        "input": "<noinput>",
+        "output": "Once upon a time, there was a magical forest that remained hidden from human eyes until one day, an adventurous group of children stumbled across it and discovered its enchanting secrets.\n"
+    },
+    {
+        "instruction": "Identify the adverb and verb in this sentence - \"The dog barked loudly at the stranger.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, \"loudly\" serves as an adverb modifying verb 'barked'.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three ways to save money on monthly bills.",
+        "input": "<noinput>",
+        "output": "Some useful tips for reducing monthly bills include cutting down usage of water & electricity consumption by taking shorter showers or turning off electronics when not in use along with negotiating better rates from service providers.\n"
+    },
+    {
+        "instruction": "instruction\uff1aCreate a playlist of ten songs for working out.",
+        "input": "<noinput>",
+        "output": "Some popular workout songs include Eye of the Tiger by Survivor, Can\u2019t Hold Us by Macklemore & Ryan Lewis and Mr. Brightside by The Killers among others.\n"
+    },
+    {
+        "instruction": "instruction\uff1aParaphrase this sentence - \"I am afraid of heights.\"",
+        "input": "",
+        "output": "High altitudes make me feel scared/anxious.\n"
+    },
+    {
+        "instruction": "instruction\uff1aCalculate 256 divided by 16.",
+        "input": "<noinput>",
+        "output": "The answer is 16.\n"
+    },
+    {
+        "instruction": "instruction\uff1aProvide three examples of renewable energy sources.",
+        "input": "<noinput>",
+        "output": "Solar power, wind turbines and hydropower are some of the most popular sources of renewable energy available today.\n"
+    },
+    {
+        "instruction": "Correct the capitalization in this sentence - \"The capital city of France is pARiS.\"",
+        "input": "\"New York City is famous for its skyline.\"",
+        "output": "The correct version would be \"The capital city of France is Paris.\"\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate a list of five must-try restaurants in New York City.",
+        "input": "<noinput>",
+        "output": "Some popular restaurants in New York City worth trying include Peter Luger Steak House, Momofuku Ss\u00e4m Bar, Shake Shack, Le Bernardin and Eleven Madison Park.\n"
+    },
+    {
+        "instruction": "instruction\uff1aWhat is the tallest mountain in North America?",
+        "input": "<noinput>",
+        "output": "Denali (Mount McKinley) -located in Alaska- is considered to be the tallest peak amongst mountains found across North America.\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify the adjective and noun in this sentence - \"The red balloon floated away.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, 'red' serves as an adjective while 'balloon' forms part of subject that performs action 'floated'.\n"
+    },
+    {
+        "instruction": "instruction\uff1aTranslate this phrase into Spanish - \"Good morning!\"",
+        "input": "<noinput>",
+        "output": "\u00a1Buenos d\u00edas!\n"
+    },
+    {
+        "instruction": "19.instruction\uff1aWrite an instruction for creating a grocery list for a week.",
+        "input": "<noinput>",
+        "output": "Make a list of all the necessary items for breakfast, lunch and dinner that you will be consuming during the week, making sure to include essential ingredients like fruits and vegetables along with meat, poultry or other preferred sources of protein.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three different ways to decorate a living room.",
+        "input": "<noinput>",
+        "output": "One can opt for decor accents such as paintings or wall hangings, adding plants or flowers on shelves/side tables or using cushion cover contrasts colorfully as per interior theme.\n"
+    },
+    {
+        "instruction": "instruction\uff1aSummarize this article about global warming in one sentence.",
+        "input": "https://climate.nasa.gov/effects/",
+        "output": "This NASA article highlights how rising temperatures are causing detrimental impacts on our planet's climate through greenhouse gas emissions.\n"
+    },
+    {
+        "instruction": "Edit this sentence to eliminate redundancy - \"She drove her car down to the beach by the ocean.\"",
+        "input": "\"We walked up to the hilltop where we could see the entire cityscape.\"",
+        "output": "The correct version would be \"She drove to the beach by the ocean.\"\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify two synonyms in this sentence - \"The boy was ecstatic after receiving his birthday gift.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, 'ecstatic' and 'overjoyed' both serve as synonyms of each other.\n"
+    },
+    {
+        "instruction": "24.instruction\uff1aGenerate three benefits of drinking green tea regularly.",
+        "input": "<noinput>",
+        "output": "Green tea offers numerous health benefits including improved brain function, reduced risk of chronic diseases and aiding weight loss.\n"
+    },
+    {
+        "instruction": "Write a dialogue between two friends discussing their favorite TV show.",
+        "input": "Friend 1: \"Have you seen the latest episode of Game of Thrones?\" Friend 2: \"No, I haven't watched it yet.\"",
+        "output": "Friend 1: \"Oh man, you need to catch up! The battle scene was amazing.\" Friend 2: \"I'll try to watch it tonight. What did you think about the ending?\" Friend 1: \"Honestly, I didn't see that coming at all!\"\n"
+    },
+    {
+        "instruction": "instruction\uff1aWhat is the capital city of Canada?",
+        "input": "<noinput>",
+        "output": "Ottawa is the capital city of Canada.\n"
+    },
+    {
+        "instruction": "instruction\uff1aTranslate this phrase into Italian - \"How are you?\"",
+        "input": "<noinput>",
+        "output": "Come stai?\n"
+    },
+    {
+        "instruction": "instruction\uff1aCreate a list of five items for a summer beach trip.",
+        "input": "<noinput>",
+        "output": "Packing essentials for a summer beach trip can include sunscreen lotion, swimsuit, beach towel & hat along with backup options such as water bottles and snacks.\n"
+    },
+    {
+        "instruction": "29.instruction\uff1aIdentify the subject and predicate in this sentence - \"The children played tag in the park.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, 'children' serves as subject who performs action 'played' while 'tag in the park' forms predicate that describes what they were playing.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three ways to improve your public speaking skills.",
+        "input": "<noinput>",
+        "output": "Public speaking can be improved through practice, joining public speaking clubs or taking courses and seeking feedback from experienced speakers.\n"
+    },
+    {
+        "instruction": "31. Write a story starting with \"It was a dark and stormy night\u2026\"",
+        "input": "<noinput>",
+        "output": "It was a dark and stormy night when Sarah decided to take a shortcut through the woods on her way home, but as she wandered deeper into the forest, she realized she wasn't alone.\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify the conjunction in this sentence - \"I want pizza for lunch but I'm trying to eat healthier.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, 'but' serves as conjunction that connects two thoughts.\n"
+    },
+    {
+        "instruction": "instruction\uff1aTranslate this phrase into German - \"What is your name?\"",
+        "input": "",
+        "output": "Wie ist dein Name?\n"
+    },
+    {
+        "instruction": "instruction\uff1aCorrect the spelling mistake in this sentence - \"Tommorow I have an appointment with my doctor.\"",
+        "input": "\"I bought some new books at the bookstore yesterday.\"",
+        "output": "The correct version would be \"Tomorrow I have an appointment with my doctor.\"\n"
+    },
+    {
+        "instruction": "instruction\uff1aProvide three tips for improving online security.",
+        "input": "<noinput>",
+        "output": "Some useful tips for online security include using strong passwords, avoiding public WiFi networks and enabling two-factor authentication on all accounts.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate a list of five popular tourist attractions in Paris.",
+        "input": "<noinput>",
+        "output": "Some popular attractions in Paris include The Eiffel Tower, The Louvre Museum, Notre Dame Cathedral, Arc de Triomphe and Palace of Versailles.\n"
+    },
+    {
+        "instruction": "Write an instruction for editing a research paper.",
+        "input": "<noinput>",
+        "output": "Read through the entire paper to check for spelling and grammar errors along with ensuring proper formatting for citations and references.\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify the pronoun in this sentence - \"She gave me a book to read.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, 'she' serves as the pronoun that refers to a female person who performed action 'gave'.\n"
+    },
+    {
+        "instruction": "instruction\uff1aWhat is the boiling point of water?",
+        "input": "<noinput>",
+        "output": "100 degrees Celsius or 212 degrees Fahrenheit are considered as boiling points when it comes to measuring temperature of water.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three ways to organize your closet efficiently.",
+        "input": "<noinput>",
+        "output": "One can sort clothes based on color or style & keep them categorized into different sections, use storage units such as shelves or hangers that maximize space usage while considering clothing material lying within closet.\n"
+    },
+    {
+        "instruction": "Correct the punctuation mistake in this sentence - \"The cat meowed at me what should I do.\"",
+        "input": "Instruct Maid"
+    },
+    {
+        "instruction": "input: \"I went for a walk in the park, and I saw some beautiful flowers.\"",
+        "input": "output: The correct version would be \"The cat meowed at me. What should I do?\""
+    },
+    {
+        "instruction": "instruction\uff1aTranslate this phrase into Mandarin - \"Thank you.\"",
+        "input": "",
+        "output": "\u8c22\u8c22 (Xi\u00e8xi\u00e8)\n"
+    },
+    {
+        "instruction": "instruction\uff1aIdentify the object pronoun in this sentence - \"He gave her the gift that she had been wanting.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, 'her' serves as object pronoun that describes whom gift is given to.\n"
+    },
+    {
+        "instruction": "instruction\uff1aSummarize this article on healthy eating habits in one sentence.",
+        "input": "https://www.cdc.gov/healthyweight/healthy_eating/index.html",
+        "output": "This CDC article highlights how developing healthy eating habits can improve overall health & well-being through balanced food choices.\n"
+    },
+    {
+        "instruction": "45.instruction\uff1aCreate a menu for a healthy breakfast.",
+        "input": "<noinput>",
+        "output": "A healthy breakfast menu could include low-fat yogurt with berries and nuts, whole-grain toast with peanut butter and banana slices, or scrambled eggs with spinach and avocado.\n"
+    },
+    {
+        "instruction": "instruction\uff1aGenerate three tips for improving your writing skills.",
+        "input": "<noinput>",
+        "output": "Some useful tips for improving writing skills are practicing regularly by reading more books or articles written by experienced writers along with seeking feedback from peers or professionals to refine it further.\n"
+    },
+    {
+        "instruction": "47. Write a dialogue between two coworkers discussing their weekend plans.",
+        "input": "Coworker 1: \"What are your plans for the weekend?\" Coworker 2: \"I'm thinking of going hiking in the mountains.\"",
+        "output": "Coworker 1: \"That sounds like a great idea! Which trail are you thinking of taking?\" Coworker 2: \"I was thinking of trying out the one near Mount Rainier. Have you ever been there?\" Coworker 1: \"No, but I've heard it's beautiful. Maybe I'll join you!\"\n"
+    },
+    {
+        "instruction": "48.instruction\uff1aCalculate the area of a rectangle with a length of 8 and width of 5.",
+        "input": "<noinput>",
+        "output": "The area would be calculated as length multiplied by width i.e, (8 x 5) = <<40=40>>40 square units.\n"
+    },
+    {
+        "instruction": "49.instruction\uff1aIdentify the preposition and object in this sentence - \"The mouse ran under the table.\"",
+        "input": "<noinput>",
+        "output": "In this sentence, 'under' serves as preposition while 'the table' forms part of object describing where mouse ran.\n"
+    },
+    {
+        "instruction": "50. instruction\uff1aProvide three examples of personal protective equipment (PPE).",
+        "input": "<noinput>",
+        "output": "PPE includes items such as helmets, gloves or masks that offer protection against physical injuries or hazards present on workplace sites, ensuring safety measures to avoid accidents or infections\n"
+    },
+    {
+        "instruction": "51.  Generate a poem about the ocean.",
+        "input": "Input: <noinput>",
+        "output": "Output: The ocean's waves crash and sway,\nAs seagulls cry for souls at bay.\nIts beauty vast, its depths unknown,\nA wonderland that's all in one.\n"
+    },
+    {
+        "instruction": "Classify the following animals into two categories: mammals and reptiles - koala, snake, lion, turtle, gorilla.",
+        "input": "Input:<no input>",
+        "output": "Output: Koala is a mammal; Snake and Turtle are reptiles; Lion and Gorilla are mammals.\n"
+    },
+    {
+        "instruction": "Edit the following sentence for clarity - \"I went to the beach, and I saw a boat, and I ate a sandwich, and I swam in the ocean.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: At the beach, I saw a boat before eating my sandwich then took a swim in the ocean later on.\n"
+    },
+    {
+        "instruction": "Identify the missing word - \"Roses are red, violets are ___.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: Blue.\n"
+    },
+    {
+        "instruction": "Translate the following sentence into Spanish - \"The dog is sleeping on the couch.\"",
+        "input": "Input:",
+        "output": "Output: El perro est\u00e1 durmiendo en el sof\u00e1.\n"
+    },
+    {
+        "instruction": "Write a summary of an article with headline \"Scientists discover new species of jellyfish in Atlantic\".",
+        "input": "Input:<noinput>",
+        "output": "Output: Researchers have discovered several new species of bioluminescent jellyfish- capable of emitting light & found within regions across Atlantic Ocean vicinity of Brazil & Argentina- bringing forth new advancements in marine biology.\n"
+    },
+    {
+        "instruction": "Identify the author of the book \"The Catcher in the Rye.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: J.D Salinger wrote \" The Catcher in the Rye.\"\n"
+    },
+    {
+        "instruction": "Generate a list of five synonyms for the word \"happy.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: Some synonyms for happy include joyful, content, delighted, elated and glad.\n"
+    },
+    {
+        "instruction": "Edit this sentence to remove passive voice - \"The cake was baked by my sister.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: My sister baked the cake.\n"
+    },
+    {
+        "instruction": "What is the capital of Brazil?",
+        "input": "Input:<noinput>",
+        "output": "Output: Bras\u00edlia is the capital city of Brazil.\n"
+    },
+    {
+        "instruction": "Write a short story about a person who discovers a magical tree.",
+        "input": "Input:<noinput>",
+        "output": "Output: A young girl named Alice discovered an enchanted tree while exploring her garden at night. Upon touching it, she found herself transported into a magical world beyond her wildest dreams- full of wondrous creatures and strange landscapes that beckoned her further.\n"
+    },
+    {
+        "instruction": "Identify protagonist of book \"To Kill a Mockingbird\".",
+        "input": "Input: <noiput>",
+        "output": "Output: Scout Finch is considered as protagonist figure in novel To Kill A Mockingbird written by Harper Lee.\n"
+    },
+    {
+        "instruction": "What is atomic number if sodium?",
+        "input": "Input:<noinput>",
+        "output": "Output: The atomic number for sodium is 11.\n"
+    },
+    {
+        "instruction": "Correct the spelling mistake in this sentence - \"I loove ice cream.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: The correct spelling would be \"I love ice cream.\"\n"
+    },
+    {
+        "instruction": "Generate a grocery list with the following items: milk, bread, eggs, apples, yogurt.",
+        "input": "Input:<noinput>",
+        "output": "Output: Grocery list could include eggs for breakfasts yogurt as a snack item to keep you full throughout the day along with milk to enjoy with cereal or coffee & snacks such as crisp apples and freshly baked bread.\n"
+    },
+    {
+        "instruction": "Identify composer of song \"Bohemian Rhapsody\".",
+        "input": "Input:<noinput>",
+        "output": "Output: Freddie Mercury was the composer of the song Bohemian Rhapsody.instruction: \n"
+    },
+    {
+        "instruction": "Which country is known for Great Barrier Reef?",
+        "input": "Input:<noinput>",
+        "output": "Output: Australia is known for having the Great Barrier Reef.\n"
+    },
+    {
+        "instruction": "Write persuasive speech on importance of recycling.",
+        "input": "Input: <noinput>",
+        "output": "Output: Recycling plays an important role in conserving our environment by reducing waste and utilizing resources efficiently. By recycling more we can help conserve natural resources and cut back on pollution that causes harm to our planet.\n"
+    },
+    {
+        "instruction": "Edit this sentence for proper capitalization and punctuation - \"my favorite color is green what about you?\"",
+        "input": "Input:<noinput>",
+        "output": "Output: My favorite color is green. What about you?\n"
+    },
+    {
+        "instruction": "Generate a poem about autumn.",
+        "input": "Input: <noinput>",
+        "output": "Output: Leaves fall gently from trees,\nAs autumn's breeze chills our knees,\nThe ground is painted with shades of gold,\nAs nature's beauty starts to unfold.\n"
+    },
+    {
+        "instruction": "What is the name of the largest desert in the world?",
+        "input": "Input:<noinput>",
+        "output": "Output: The Sahara Desert is considered as the largest desert in the world.\n"
+    },
+    {
+        "instruction": "Translate following sentence into French - \"I will be back tomorrow.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: Je reviendrai demain.\n"
+    },
+    {
+        "instruction": "Edit this sentence to include correct subject and verb agreement: \"The dogs barks loudly.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: The dog barks loudly.\n"
+    },
+    {
+        "instruction": "Who is director of movie \"The Shawshank Redemption\"?",
+        "input": "Input:<noinput>",
+        "output": "Output: Frank Darabont directed the movie \"The Shawshank Redemption.\"\n"
+    },
+    {
+        "instruction": "What is chemical formula for water?",
+        "input": "Input:<noinput>",
+        "output": "Output: The chemical formula for water is H2O.\n"
+    },
+    {
+        "instruction": "Write short biography on Malala Yousafzai.",
+        "input": "Input:<noinput>",
+        "output": "Output: Malala Yousafzai was born on July 12, 1997, in Pakistan, and quickly came to public attention due to her activism and outspokenness against Taliban who were against education for girls- becoming a global symbol of women empowerment and social justice causes worldwide through her story & work that continue to inspire millions today.\n"
+    },
+    {
+        "instruction": "What is name of instrument used to measure blood pressure?",
+        "input": "Input:<noinput>",
+        "output": "Output: The Sphygmomanometer serves as an instrument used to measure blood pressure.\n"
+    },
+    {
+        "instruction": "Correct grammar error in this sentence - \"Me and my friends went to the mall.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: My friends and I went to the mall.\n"
+    },
+    {
+        "instruction": "Generate list of five antonyms for word \"hot\".",
+        "input": "Input:<noinput>",
+        "output": "Output: Some antonyms for hot include cold, cool, chilly, frigid, and freezing.\n"
+    },
+    {
+        "instruction": "Edit this sentence for proper verb tense - \"I was walk to the store last night.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: I walked to the store last night.\n"
+    },
+    {
+        "instruction": "Write a review of book you recently read.",
+        "input": "Input:<noinput>",
+        "output": "Output: The Alchemist is an inspiring book by Paulo Coelho that explores themes such as following your dreams and finding your personal legend. The story is filled with unique characters and settings that take readers on a journey through self-discovery and adventure. Overall, it's a highly recommended read for anyone looking for inspiration or seeking wisdom in life's journey.\n"
+    },
+    {
+        "instruction": "What is name of largest mountain range in world?",
+        "input": "Input:<noinput>",
+        "output": "Output: The Himalayas are considered as the largest mountain range in the world.\n"
+    },
+    {
+        "instruction": "Translate following sentence into German - \"I love pizza.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: Ich liebe Pizza.\n"
+    },
+    {
+        "instruction": "Edit this sentence to remove double negative - \"I don't want nothing for my birthday.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: I don't want anything for my birthday.\n"
+    },
+    {
+        "instruction": "Who is artist behind painting \"Starry Night\"?",
+        "input": "Input:<noinput>",
+        "output": "Output: Vincent van Gogh is the artist behind the painting \"Starry Night.\"\n"
+    },
+    {
+        "instruction": "What is name of largest river in world?",
+        "input": "Input:<noinput>",
+        "output": "Output: The Amazon River is considered as the largest river in the world.\n"
+    },
+    {
+        "instruction": "Write short story about person who travels to space.",
+        "input": "Input:<noinput>",
+        "output": "Output: John had always dreamed of traveling to space. He finally got his chance when he was selected by NASA for their next mission. After months of intense training, he boarded a spacecraft with a team of astronauts and set off into the infinite expanse of the cosmos. As they soared through galaxies and explored new worlds, John discovered a sense of wonder and awe that he never thought possible.\n"
+    },
+    {
+        "instruction": "What is name of process by which plants convert light into energy?",
+        "input": "Input:<noinput>",
+        "output": "Output: The process by which plants convert light into energy is called photosynthesis.\n"
+    },
+    {
+        "instruction": "Correct spelling mistake in this sentence - \"I accidentally dropped my phonne.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: The correct spelling would be \"phone.\"\n"
+    },
+    {
+        "instruction": "Identify main character in movie \"Forrest Gump\".",
+        "input": "Input:<noinput>",
+        "output": "Output: Forrest Gump himself serves as main protagonist & title character in movie named after him; played by Tom Hanks where his personality blesses him to achieve great things despite initial odds stacked against him.\n"
+    },
+    {
+        "instruction": "Generate recipe for grilled cheese sandwiches.",
+        "input": "Input:<noinput>",
+        "output": "Output: Ingredients needed for grilled cheese sandwiches include bread, butter, and cheese. Butter the outside of each slice of bread, place a slice of cheese in between, and cook in a skillet over medium heat until bread is golden brown and cheese is melted.\n"
+    },
+    {
+        "instruction": "What is name of largest island in world?",
+        "input": "Input:<noinput>",
+        "output": "Output: Greenland is considered as the largest island in the world.\n"
+    },
+    {
+        "instruction": "Write descriptive paragraph about your favorite place to relax.",
+        "input": "Input:<noinput>",
+        "output": "Output: My favorite place to relax is by the beach. The sound of waves crashing on the shore while I feel sand beneath my toes helps me unwind from everyday stresses. Watching sunsets over the water provides endless inspiration and blessings that make me appreciate life more fully.\n"
+    },
+    {
+        "instruction": "What is name of person who invented telephone?",
+        "input": "Input:<noinput>",
+        "output": "Output: Alexander Graham Bell invented telephone.\n"
+    },
+    {
+        "instruction": "Translate following sentence into Italian - \"How are you doing today?\"",
+        "input": "Input:<noinput>",
+        "output": "Output: Come stai oggi?\n"
+    },
+    {
+        "instruction": "Edit this sentence to remove double punctuation - \"I can't believe it!!!\"",
+        "input": "Input:<noinput>",
+        "output": "Output: \"I can't believe it!\"\n"
+    },
+    {
+        "instruction": "What is name of largest ocean in world?",
+        "input": "Input:<noinput>",
+        "output": "Output: Pacific Ocean serves as largest ocean present on this planet earth.\n"
+    },
+    {
+        "instruction": "Generate list of five homophones.",
+        "input": "Input:<noinput>",
+        "output": "Output: Some examples of homophones include bear/bare, their/there/they're, to/too/two, hear/here and knight/night.\n"
+    },
+    {
+        "instruction": "What is name of person who painted Mona Lisa?",
+        "input": "Input:<noinput>",
+        "output": "Output: Leonardo da Vinci is the artist behind the painting \"Mona Lisa.\"\n"
+    },
+    {
+        "instruction": "Write short story that ends with phrase \"and that's why they call it the city of love.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: Laughter echoed through streets lined with cafes as two strangers locked eyes across a crowded piazza. As they shared their first kiss by the Seine River under a starry sky in Paris, he whispered into her ear, \"and that's why they call it the city of love.\" She smiled, knowing she had found what she had been looking for all along - true love in one of the most romantic cities in the world.\n"
+    },
+    {
+        "instruction": "Instruction: Generate a short story about a cat who learns to talk to humans.",
+        "input": "Input: \"A small cat named Mittens realized she could suddenly speak English.\"",
+        "output": "Output: Mittens immediately tried out her new skill by saying \"Hello\" to the humans in the room, who were surprised but delighted by their talking feline.\nAt first, Mittens was hesitant to reveal her newfound ability, but soon found that being able to communicate made life much easier for everyone involved. It wasn't long before the other neighborhood cats caught wind of Mittens' ability and came asking for advice on how they too could learn to speak human language. As it turns out, talking isn't all it's cracked up to be - sometimes it's better just to listen instead. In one particularly harrowing adventure, Mittens used her gift of communication to help a lost child find his way home.\n"
+    },
+    {
+        "instruction": "Instruction: Classify the following animals as domestic or wild: dog, lion, hamster, tiger.",
+        "input": "Input: <noinput>",
+        "output": "Output: Dog - Domestic. Lion - Wild. Hamster - Domestic. Tiger - Wild.\n"
+    },
+    {
+        "instruction": "Instruction: Edit this sentence to make it grammatically correct: \"Me is going to the store.\"",
+        "input": "Input: <noinput>",
+        "output": "Output: I am going to the store.\n"
+    },
+    {
+        "instruction": "Instruction: List 5 different ways to prepare potatoes.",
+        "input": "Input: \"I have a bag of potatoes and don't know what to do with them.\"",
+        "output": "Output:\n1. Roast them in the oven with olive oil and your favorite seasoning.\n2. Make mashed potatoes by boiling them until soft, then mashing with butter and milk.\n3. Cut into small cubes and fry for crispy home fries.\n4. Slice thin and make homemade potato chips in the oven or deep fryer.\n5. Mix with eggs, onions, and cheese for a delicious potato frittata.\n"
+    },
+    {
+        "instruction": "Instruction: Generate a list of the 10 largest countries in the world by land area.",
+        "input": "Input: <noinput>",
+        "output": "Output:\n1. Russia\n2. Canada\n3. China\n4. United States\n5. Brazil\n6. Australia\n7. India\n8. Argentina\n9.Sudan\n10.Kazakhstan\n"
+    },
+    {
+        "instruction": "Instruction: Write a persuasive essay arguing in favor of renewable energy sources.",
+        "input": "Input: \"Climate change is a major problem facing the world today.\"",
+        "output": "Output:\nRenewable energy sources like solar power or wind turbines are cleaner options that can help slow down climate change while meeting our energy needs at the same time.\nBy moving towards renewable energy, we can reduce our reliance on finite resources like fossil fuels that have negative environmental impacts when extracted, transported or used as fuel.\nWhen developed responsibly - taking factors such as location of installation into account, renewables can provide enough power to meet rising demand without producing greenhouse gas emissions, air pollution or waste residues normally associated with burning fossil fuels such as oil or coal.\nRenewable energy also has the added benefit of being more sustainable over the long-term as it can be harnessed without causing harm to future generations or destroying our planet's natural resources. With continued investment and innovation, renewables could provide a viable alternative to non-renewable sources of energy in years to come, allowing us to transition towards a greener, cleaner future for all.\n"
+    },
+    {
+        "instruction": "Instruction: Translate the phrase \"I love you\" into Spanish, French, and German.",
+        "input": "Input: <noinput>",
+        "output": "Output: Spanish - Te quiero / Te amo. French - Je t'aime. German - Ich liebe dich\n"
+    },
+    {
+        "instruction": "Instruction: Correct the spelling errors in the following sentence: \"I havent seen you in awhile.\"",
+        "input": "Input: <noinput>"
+    },
+    {
+        "instruction": "Output: I haven't seen you in a while."
+    },
+    {
+        "instruction": "Instruction: Generate a poem about a thunderstorm.",
+        "input": "Input: <noinput>",
+        "output": "Output: The sky begins to darken with heavy clouds,\nAnd soon enough, the thunder roars aloud.\nLightning splits the air with jagged light,\nA storm has come to reign supreme tonight.\nRaindrops fall like diamonds from above,\nEach splash and splatter like an act of love.\nThe wind picks up, whipping through the trees,\n8.The thunderclaps are true symphonies on high\n9.As if nature itself were performing for me\n10.Until every last drop has fallen from the skies.\n"
+    },
+    {
+        "instruction": "Instruction: Identify the author and title of the book that begins with the line \"It was the best of times, it was the worst of times.\"",
+        "input": "Input: <noinput>",
+        "output": "Output: Tale Of Two Cities by Charles Dickens.\n"
+    },
+    {
+        "instruction": "Instruction: Summarize in one sentence the plot of the movie \"The Shawshank Redemption.\"",
+        "input": "Input: <noinput>",
+        "output": "Output:\nThe Shawshank Redemption is about a man named Andy Dufresne who is sentenced to life in prison for a crime he didn't commit and his friendship with another inmate, Red, as they navigate the harsh realities of prison life while also trying to maintain a sense of hope and purpose.\n"
+    },
+    {
+        "instruction": "Instruction: Convert 75 degrees Fahrenheit to Celsius.",
+        "input": "Input: <noinput>",
+        "output": "Output: 75\u00b0F = 23.9\u00b0C.\n"
+    },
+    {
+        "instruction": "Instruction: Create a grocery list for a vegetarian meal that feeds 4 people.",
+        "input": "Input: <noinput>",
+        "output": "Output: \n1. Quinoa\n2. Chickpeas\n3. Spinach\n4. Bell peppers\n5. Tomatoes\n6. Cucumber\n7. Feta cheese (optional)\n8. Olive oil\n9. Lemon juice\n"
+    },
+    {
+        "instruction": "Instruction: Identify the chemical elements present in the compound NaCl.",
+        "input": "Input: <noinput>",
+        "output": "Output: Sodium and Chlorine.\n"
+    },
+    {
+        "instruction": "Instruction: Write a short biography of Albert Einstein.",
+        "input": "Input: <noinput>",
+        "output": "Output: Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics, and is best known for his mass\u2013energy equivalence formula E=mc\u00b2 which has been dubbed \"the world's most famous equation\". He received the Nobel Prize in Physics in 1921 for his contributions to theoretical physics and he passed away on April 18,1955 at age 76 .\n"
+    },
+    {
+        "instruction": "Instruction: Correct the punctuation errors in the following sentence: \"I can't believe it's already Tuesday, where did the week go!!!\"",
+        "input": "Input:<noinput>",
+        "output": "Output:\nI can't believe it's already Tuesday - where did the week go?!\n"
+    },
+    {
+        "instruction": "Instruction: Explain the difference between \"there,\" \"their,\" and \"they're.\"",
+        "input": "Input: <noinput>",
+        "output": "Output: \"There\" refers to a place, while \"their\" is a possessive pronoun indicating ownership by multiple people, and \"they're\" is a contraction of \"they are.\"\n"
+    },
+    {
+        "instruction": "Instruction: Create a list of the 5 best movies released in the last 10 years.",
+        "input": "Input: <noinput>",
+        "output": "Output:\n1. Parasite (2019)\n2. The Social Network (2010)\n3. Roma (2018)\n4. Mad Max: Fury Road(2015)\n5. Call Me By Your Name( 2017)\n"
+    },
+    {
+        "instruction": "Instruction: Identify the protagonist and antagonist in the novel \"To Kill a Mockingbird.\"",
+        "input": "Input: <noinput>",
+        "output": "Output:\nProtagonist- Scout Finch\nAntagonist - Bob Ewell\n"
+    },
+    {
+        "instruction": "Instruction : Generate a recipe for chocolate chip cookies.",
+        "input": "Input: <noinput>",
+        "output": "Output:\nIngredients:\n    2 and \u00bc cups all-purpose flour\n    1 tsp baking soda\n    1 tsp salt\n    1 cup unsalted butter, room temperature\n    \u00be cup white sugar\n    \u00be cup brown sugar\n    2 large eggs\n    2 tsp vanilla extract\n    Chocolate chips, as much as desired\nInstructions:\n1. In one bowl, mix together flour, baking soda, and salt.\n2. In another bowl cream together butter with both sugars until smooth.\n3. Beat in the eggs one at a time, then stir in vanilla extract.\n4. Mix dry ingredients into wet ingredients until well combined.\n5. Fold in chocolate chips until evenly distributed throughout the dough.\n6. Refrigerate dough for at least 30 minutes.\n7. Preheat oven to 375\u00b0F (190\u00b0C) and line baking sheet with parchment paper.\n8. Use a spoon or cookie scoop to create equal sized balls of dough and place them on the baking sheet.\nBake for about 10-12 minutes, or until edges are starting to turn golden brown.Remove from oven and let cool on wire rack before serving. Enjoy your delicious homemade chocolate chip cookies!\n"
+    },
+    {
+        "instruction": "Instruction: Explain the concept of supply and demand in economics.",
+        "input": "Input: <noinput>",
+        "output": "Output: Supply and demand is a fundamental concept in economics that describes how the quantity of a good or service produced by suppliers (supply) interacts with the level of consumer demand for that good or service to determine its price on the open market, where equilibrium can be established when both forces balance each other out.\n"
+    },
+    {
+        "instruction": "Instruction: Identify the capital cities of the following countries: Italy, Canada, South Africa.",
+        "input": "Input: <noinput>",
+        "output": "Output:\n1. Italy - Rome\n2. Canada - Ottawa\n3. South Africa - Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)\n"
+    },
+    {
+        "instruction": "Instruction: Describe the plot of the play \"Romeo and Juliet.\"",
+        "input": "Input: <noinput>"
+    },
+    {
+        "instruction": "Output:",
+        "input": "1.Romeo and Juliet is a tragedy written by William Shakespeare that follows the story of two young lovers from feuding families in Renaissance-era Verona who are forced to keep their love a secret as they navigate obstacles such as duels, arranged marriages, and political intrigue while trying to find a way to be together despite their families' bitter rivalry."
+    },
+    {
+        "instruction": "Instruction: Edit this sentence to make it more concise: \"There are numerous reasons why I enjoy spending time with my friends.\"",
+        "input": "Input:<noinput>",
+        "output": "Output: I love spending time with my friends for a myriad of reasons.\n"
+    },
+    {
+        "instruction": "Instruction: Explain the process of photosynthesis in plants.",
+        "input": "Input: <noinput>",
+        "output": "Output:\n1.Photosynthesis is the process by which green plants and some other organisms use sunlight, carbon dioxide, and water to produce oxygen and glucose as they capture the energy from the sun to convert into food through a series of chemical reactions that take place in specialized organelles called chloroplasts found within plant cells.\n"
+    },
+    {
+        "instruction": "Instruction: Generate a letter of recommendation for a former employee.",
+        "input": "Input: <noinput>",
+        "output": "Output:\nTo Whom It May Concern,\n"
+    },
+    {
+        "instruction": "I am writing to highly recommend [employee name] without hesitation. During their time at our company, [employee name] consistently impressed us with their hard work, dedication, and ability to work collaboratively with others."
+    },
+    {
+        "instruction": "Their contributions to the team were invaluable and they always went above and beyond what was expected of them. They demonstrated excellent communication skills and an ability to handle difficult tasks with ease, even under pressure."
+    },
+    {
+        "instruction": "[Employee name] has a strong work ethic and would be an asset to any organization lucky enough to have them on board. They are detail-oriented, reliable, and committed to achieving goals in a timely manner."
+    },
+    {
+        "instruction": "Overall, I believe that [employee name] would make an excellent addition to your team. Please do not hesitate to contact me if you require any further information or clarification regarding their qualifications or abilities."
+    },
+    {
+        "instruction": "Sincerely,",
+        "input": "[Your Name]"
+    },
+    {
+        "instruction": "Instruction: Identify the composers of the following musical pieces: Moonlight Sonata, Flight of the Bumblebee, The Four Seasons.",
+        "input": "Input: <noinput>",
+        "output": "Output:\n1. Moonlight Sonata - Ludwig van Beethoven\n2. Flight of the Bumblebee - Nikolai Rimsky-Korsakov\n3. The Four Seasons - Antonio Vivaldi\n"
+    },
+    {
+        "instruction": "Instruction: Write a short story about a character who discovers they have a superpower.",
+        "input": "Input:",
+        "output": "Output: Emily had always felt like she was different from everyone else, but it wasn't until her 18th birthday that things really started getting weird. Suddenly, she was able to teleport herself anywhere she wanted just by thinking about it, and it wasn't long before Emily realized that this was definitely not something other people could do.\nAt first, Emily was nervous about using her power too much for fear of drawing attention to herself. But as time went on and she became more confident in her abilities, she began using her new skills to help others.\nOne day while out walking in the park, Emily witnessed an attempted mugging taking place and without hesitation, teleported herself over to the scene of the crime. Using her powers to quickly maneuver around the mugger, Emily managed to disarm him and get away safely with the victim's purse.\nFrom then on, Emily knew that having superpowers came with great responsibilities. She continued practicing and honing her skills so that one day she could use them for even greater good.\n"
+    },
+    {
+        "instruction": "Instruction: Write a list of 5 healthy breakfast options.",
+        "input": "Input: <noinput>",
+        "output": "Output:\n1. Greek yogurt with berries and granola.\n2. Oatmeal with nuts, seeds, and fruit.\n3. Scrambled eggs with spinach and avocado on whole wheat toast.\n4. Smoothie bowl made with frozen fruit, spinach, almond milk, and topped with chia seeds\n5. Whole grain cereal or toast with peanut butter and banana slices\n"
+    },
+    {
+        "instruction": "Instruction: Identify the protagonist in the novel \"The Catcher in the Rye.\"",
+        "input": "Input: <noinput>",
+        "output": "Output: Protagonist - Holden Caulfield\n"
+    },
+    {
+        "instruction": "Instruction: Explain the concept of gravity.",
+        "input": "Input: <noinput>",
+        "output": "Output: Gravity is a fundamental force in physics that describes the attraction between two objects with mass, which causes them to pull towards each other and determines their motion in space. The strength of this force depends on the distance between the objects as well as their masses, with larger masses producing stronger gravitational effects. It is responsible for keeping planets in orbit around stars, moons around planets, and for determining the trajectory and acceleration of objects moving through space.\n"
+    },
+    {
+        "instruction": "Generate a list of the top 10 movies of all time.",
+        "input": "<noinput>",
+        "output": "\n1. The Godfather (1972)\n2. The Shawshank Redemption (1994)\n3. Schindler's List (1993)\n4. Raging Bull (1980)\n5. Casablanca(1942)\n6. Citizen Kane (1941)\n7. Gone with the Wind(1939)\n8. The Wizard of Oz(1939)\n9. Lawrence of Arabia(1962)\n10. Apocalypse Now(1979)\n"
+    },
+    {
+        "instruction": "Classify the following sentence as either a question, statement or command: \"Can you pass me the salt?\"",
+        "input": "<noinput>",
+        "output": "Question.\n"
+    },
+    {
+        "instruction": "Edit the following paragraph for grammar and spelling errors: \"My freind adore's the outdoors, but hates the wether in the winter.\"",
+        "input": "<noinput>",
+        "output": "My friend adores the outdoors but hates the weather in winter.\n"
+    },
+    {
+        "instruction": "Generate a summary of the article \"Maintaining health while working from home\".",
+        "input": "Input: https://www.medicalnewstoday.com/articles/working-from-home-health-tips",
+        "output": "Output: This article provides advice on how to maintain physical and mental health while working from home by establishing boundaries between work and personal life, creating an ergonomic workspace, engaging in regular exercise breaks throughout the day, staying hydrated, and taking breaks for relaxation and stress relief.\n"
+    },
+    {
+        "instruction": "Describe difference between a crocodile and an alligator.",
+        "input": "Input:<noinput>",
+        "output": "Output: Crocodiles and alligators are both reptiles belonging to the same order, but they have several differences. Crocodiles have a V-shaped snout and teeth that are visible when their mouth is closed whereas alligators have a U-shaped snout and only upper teeth visible from outside their mouth. Crocodiles tend to live in saltwater habitats while alligators prefer freshwater. Alligator populations are limited to USA and China while crocodile species can be found in different continents around the world.\n"
+    },
+    {
+        "instruction": "Generate a short story that includes the following three words: apple, guitar, and love.",
+        "input": "Input:<noinput>",
+        "output": "Output: Jacob was sitting under his favorite apple tree strumming his guitar when he saw her for the first time. It was love at first sight - he felt electricity coursing through him as she walked by with her long flowing hair trailing behind her like sunlight on water.\nDays turned into months as Jacob tried everything in his power to win her over. He played songs on his guitar until his fingers bled, wrote poems about how much he loved her, even baked an apple pie for her special one afternoon just so he could see her smile.\nAfter many attempts finally she gave him a chance and they started going out together. Soon after they realized that it truly was love between them, stronger than anything else. They took care of each other like apples on the trees, it was just meant to be.\n"
+    },
+    {
+        "instruction": "Identify the main theme of the novel \"To Kill a Mockingbird\".",
+        "input": "Input: <noinput>",
+        "output": "Output: The main themes in To Kill a Mockingbird by Harper Lee include racial injustice and prejudice, social inequality and class boundaries, growing up and loss of innocence, moral education and personal integrity. The novel is set during the 1930s depression era when segregation between whites and blacks was rampant in America. It follows Scout Finch as she learns valuable lessons about these issues through her father Atticus' defense of Tom Robinson, an innocent black man falsely accused of rape.\n"
+    },
+    {
+        "instruction": "Edit the following sentence for clarity: \"After running around the park, a picnic seemed like a good idea.\"",
+        "input": "<noinput>",
+        "output": "A picnic seemed like a good idea after running around the park.\n"
+    },
+    {
+        "instruction": "Generate a list of the top 5 tourist attractions in Las Vegas.",
+        "input": "<noinput>",
+        "output": "\n1. Bellagio Resort and Fountain Show\n2. The Mirage Casino-Hotel and Volcano Show\n3. Stratosphere Tower\n4. Caesars Palace Casino and the Colosseum theatre\n5. Fremont Street Experience\n"
+    },
+    {
+        "instruction": "Identify the author and publication date of the book \"1984\".",
+        "input": "<noinput>",
+        "output": "Author - George Orwell\nPublication Date - June 8, 1949\n"
+    },
+    {
+        "instruction": "Generate a recipe for spaghetti bolognese.",
+        "input": "<noinput>",
+        "output": "Ingredients:\n1 pound ground beef\n1 onion, diced\n4 cloves garlic, minced\n2 cans of whole peeled tomatoes (28 oz each)\n1 can tomato paste (6 oz)\n1 cup beef broth\n2 teaspoons dried oregano\nSalt and pepper to taste\nOlive oil\nSpaghetti pasta\n"
+    },
+    {
+        "instruction": "Instructions:",
+        "input": "1. Cook spaghetti al dente according to package instructions. Drain and set aside.",
+        "output": "2.In a large pot or Dutch oven over medium-high heat, add olive oil, onion and garlic until softened.\n3.Add in the ground beef and cook until browned, stirring often to break up any chunks.\n4.Once meat is browned add canned tomatoes along with their juice into the pot while breaking them up with spoon , stir in tomato paste and beef broth .\n5.Season with salt and pepper to your taste preference; then mix well. Cover the pan partially allowing it to simmer on low heat for about an hour or more depending on personal preferences.Cooking time will help reduce the sauce thickness which generally enhances flavor overtime .\n6.Serve spaghetti in bowls topped generously with sauce cooked earlier. Optional: you can also sprinkle fresh herbs like parsley or basil as garnish.\n"
+    },
+    {
+        "instruction": "Describe the process of photosynthesis.",
+        "input": "<noinput>",
+        "output": "\nPhotosynthesis is the process by which green plants and some other organisms use sunlight, carbon dioxide, and water to produce oxygen and glucose. It occurs in two stages: the light-dependent reactions that take place in the thylakoid membranes of chloroplasts, which generate energy-rich molecules like ATP through a series of electron transport chains; and the light-independent reactions also known as Calvin Cycle that happen inside chloroplasts stroma allowing Carbon Dioxide to be converted into sugar molecules through enzymes while utilizing energy obtained from energy rich molecule invented during stage one . This final step allows plant cells to store energy in carbohydrate molecules which can then be used later for growth or other metabolic processes. photosynthesis is essential for life on Earth as it provides oxygen we breathe while removing harmful Carbon dioxide from atmosphere thus preventing global warming.\n"
+    },
+    {
+        "instruction": "Identify the capital city of each country in South America.",
+        "input": "<noinput>",
+        "output": "\n1. Argentina - Buenos Aires\n2. Bolivia - Sucre (constitutional capital) and La Paz (administrative and legislative)\n3. Brazil - Bras\u00edlia\n4. Chile - Santiago\n5. Colombia - Bogot\u00e1\n6. Ecuador - Quito\n7.Guyana- Georgetown\n8. Peru \u2013 Lima\n9. Paraguay \u2013 Asunci\u00f3n\n10. Suriname - Paramaribo\n11. Uruguay \u2013 Montevideo\n12.Venezuela - Caracas\n"
+    },
+    {
+        "instruction": "Edit the following sentence for tone: \"You obviously didn't read the instructions.\"",
+        "input": "<noinput>",
+        "output": "It seems like there may have been some confusion with the instructions.\n"
+    },
+    {
+        "instruction": "Generate a set of instructions on how to make a paper airplane.",
+        "input": "<noinput>",
+        "output": "\nSteps to Make a Paper Airplane:\n1. Take an A4 size sheet of paper and fold it in half lengthwise, then unfold it.\n2. Fold the top corners of the paper down so that their edges meet at the center crease you made earlier; this will create a triangle-shaped flap on top.\n3. Fold the same top triangles again downwards along with existing crease lines until they are parallel to each other.\n4. Fold down the tip of the paper plane about 1 inch (2-3 cm) and crease it well before unfolding.\n5. Flip over your paper, fold its corners towards center till they reach one another resulting in formation of small triangle shaped flap at tip.\n6. Fold each wing downward using where your first folds meet as pivot, make around 45-degree angles for best results without exceeding too much or collapsing.\n7. Now after ensuring wings alignment hold onto bottom corner with thumb and index finger while other fingers support back surface of airplane gently giving some upward curve to wings before tossing into the air.\n"
+    },
+    {
+        "instruction": "Compare and contrast Buddhism and Hinduism.",
+        "input": "<noinput>",
+        "output": "Buddhism and Hinduism are two of the most prominent religions practiced in Asia, with a number of similarities as well as differences.\nSimilarities:\n1. Both originated in India\n2. Both believe in karma, rebirth, and reincarnation\n4. Both reject the idea of a single creator deity\n5. Both highly value meditation practice\n6. Both emphasize the importance of living a virtuous life\n"
+    },
+    {
+        "instruction": "Differences:",
+        "input": "1. Hinduism tends to be polytheistic (worshiping many gods) while Buddhism does not recognize any god or divine being",
+        "output": "2. Buddhism emphasizes on attaining liberation from suffering by breaking the cycle of birth and death through enlightenment while Hinduism believes that one must fulfill their individual responsibility without attachment to attain moksha.\n3. Most Hindus believe in caste system where people belong to different hereditary groups based on profession /birth while this is rejected by Buddhist Ideology .\n"
+    },
+    {
+        "instruction": "Identify the elements in the periodic table with the symbols Na, Cl, and Fe.",
+        "input": "<noinput>",
+        "output": "Sodium - Na. Chlorine - Cl. Iron - Fe\n"
+    },
+    {
+        "instruction": "Generate a one-paragraph summary of the movie \"The Godfather\".",
+        "input": "<noinput>",
+        "output": "The Godfather is a widely acclaimed crime film directed by Francis Ford Coppola, released in 1972. Set during the early 1940s and late 1950s, it revolves around the Corleone family - a powerful Mafia dynasty based in New York City. The film follows patriarch Vito Corleone (Marlon Brando), head of the family as he builds his criminal empire with help from his sons Michael (Al Pacino) and Fredo (John Cazale). With themes that explore morality and loyalty, The Godfather tells a story of power struggles within organized crime while portraying an intimate look at familial relationships amongst these dangerous characters. At its heart, the film is about how people navigate between their personal desires and moral obligations while meeting expectations of tradition and heritage within society's confines of lawful behavior..\n"
+    },
+    {
+        "instruction": "Edit the following sentence for punctuation: \"I like eating pizza but I'm not very good at making it so I usually order it instead.\"",
+        "input": "<noinput>",
+        "output": "\"I like eating pizza, but I'm not very good at making it, so I usually order it instead.\"\n"
+    },
+    {
+        "instruction": "Identify the largest ocean in the world.",
+        "input": "<noinput>",
+        "output": "The Pacific Ocean is the largest of all oceans, covering more than 30% of Earth's surface and containing more than half of its free water.\n"
+    },
+    {
+        "instruction": "Describe the types of clouds found in the sky.",
+        "input": "<noinput>",
+        "output": "Clouds are formed by condensation and can take on various shapes and sizes based on conditions in the atmosphere. There are three main types of clouds, each with their own subtypes:\nCirrus: High-altitude clouds that appear thin, wispy, and feathery. They are sometimes referred to as \"mare's tails\" because they resemble a horse's tail when blown by wind.\nCumulus: Puffy white clouds that often form on sunny days. They can be low or high altitude depending on size with fluffy tops and flat bottoms.\nStratus: Low-level cloud formations that often blanket the entire sky creating dull grey or white appearance.\nOther less common cloud types include cumulonimbus, which bring thunderstorms; altocumulus, mid level layered clouds; and lenticularis , lens-shaped or almond-shaped clouds seen near mountains . Each type of cloud is associated with specific weather patterns which identifies upcoming changes in climatic conditions for those keen enough to watch them .\n"
+    },
+    {
+        "instruction": "Generate a list of the top 5 fastest animals in the world.",
+        "input": "<noinput>",
+        "output": "\n1. Peregrine Falcon\n2. Cheetah\n3. Sailfish\n4. Pronghorn Antelope\n5. Blue Wildebeest\n"
+    },
+    {
+        "instruction": "Describe the process of mitosis in cell division.",
+        "input": "<noinput>",
+        "output": "Mitosis is a process of cell division that occurs in eukaryotic cells (cells with a nucleus) during which the parent cell divides into two daughter cells, each containing an exact copy of the genetic material. Mitosis consists of four main stages:\nProphase: The chromatin condenses into visible chromosomes, and spindle fibers form from centrosomes as they begin to move toward opposite poles.\nMetaphase: Chromosomes align at the equator or center of the spindle forming metaphase plate , attach themselves to spindle fibers by kinetochores and get ready for separation.\nAnaphase: Sister chromatids are split apart and pulled to opposite ends of the cell by attached spindle fibers resulting in formation of separate chromosomes .\nTelophase: New nuclei start reforming around separated chromosomes which gather on either pole . Simultaneously Cytoplasm starts splitting going through cytokinesis giving birth to two identical daughter cells having all genetic features of parent cell\nMitosis allows organisms to grow or repair tissue by making new cells from existing ones.\n"
+    },
+    {
+        "instruction": "Generate a list of the top 5 most spoken languages in the world.",
+        "input": "<noinput>",
+        "output": "\n1. Chinese (Mandarin)\n2. Spanish\n3. English\n4. Hindi\n5. Arabic\n"
+    },
+    {
+        "instruction": "Explain the difference between weather and climate.",
+        "input": "<noinput>",
+        "output": "Weather is the day-to-day state of the atmosphere, such as temperature, humidity, precipitation, wind speed/direction that can vary on a daily basis in any given location. It describes current atmospheric conditions for short periods of time ranging from minutes to weeks.\nOn the other hand, climate refers to average weather conditions over long periods of time, often spanning several years or more. It takes into account factors like temperature changes, rainfall patterns or seasonal variations which are used to define regional geographic zones such as tropical, arid etc. Climate change is driven by global phenomena including greenhouse gas emissions, sea level rising and other natural /man-made causes impacting Earth's temperature and ecosystems.\n"
+    },
+    {
+        "instruction": "Identify the author and publication date of the book \"To Kill A Mockingbird\".",
+        "input": "<noinput>",
+        "output": "Author - Harper Lee\nPublication Date - July 11, 1960\n"
+    },
+    {
+        "instruction": "Generate a one-paragraph summary of the novel \"Animal Farm\".",
+        "input": "<noinput>",
+        "output": "Animal Farm is a political allegory written by George Orwell, published in 1945. Set on an English farm, the story initially follows the livestock as they overthrow their human owner and assume control over their own destiny under pigs' charismatic leadership . At first it appears to be successful \"animal socialism\" but as time goes on , power becomes exploitative leading to consequences like corruption,murder and overall oppression of other animals who aren't part of ruling class. The novel elucidates how absolute power corrupts absolutely, through observing how principles are deliberately silenced or violated for furtherance of personal interests. With belief in equality failing each time someone comes into power regardless whether individuals were at base humans or animals .. The novel serves as warning against potential dangers posed by unchecked authoritarianism which can resurface anytime in any society.\n"
+    },
+    {
+        "instruction": "Identify the largest continent in the world.",
+        "input": "<noinput>",
+        "output": "Asia is the largest continent both by landmass and population, encompassing over 44 million square kilometers of land and home to more than four billion people.\n"
+    },
+    {
+        "instruction": "Describe the structure of an atom.",
+        "input": "<noinput>",
+        "output": "Atoms are the basic building blocks of matter and consist of three main types of subatomic particles: protons, neutrons, and electrons. Protons and neutrons make up the nucleus or center of an atom while electrons revolve around it in specific energy levels called shells or orbits. Protons are positively charged particles found in the nucleus that determine the atomic number and identity of the element.\nNeutrons are neutral particles located in the nucleus that have no charge but play a vital role in maintaining stability .\nElectrons have negative electric charge distributed over different shells , they revolve around within a certain distance from nucleus . They play critical role in chemical interactions between atoms.\nThe number of protons determines what type of atom it is as well as its chemical properties. The number of neutrons vary for different isotopes (atoms with same #proton but diff neutron hence diff weight) while electrons influence bonding behavior through valence shell electron configuration.The study and understanding about these subatomic particles has lead to many breakthroughs such as nuclear energy, radiation therapy etc.\n"
+    },
+    {
+        "instruction": "Generate a list of the top 5 tallest mountains in the world.",
+        "input": "<noinput>",
+        "output": "\n1. Mount Everest - 8,848 meters (29,029 feet)\n2. K2 - 8,611 meters (28,251 feet)\n3. Kangchenjunga - 8,586 meters (28,169 feet)\n4. Lhotse - 8,516 meters (27,940 feet)\n5. Makalu - 8,485 meters (27,838 feet)\n"
+    },
+    {
+        "instruction": "Explain the difference between a cold and an allergy.",
+        "input": "<noinput>",
+        "output": "While both common cold and allergies share some similar symptoms such as sneezing, stuffy or runny nose, and coughing they are caused by different factors.\nA cold is a viral infection caused by over 200 different types of viruses in the rhinovirus family. Its symptoms include sore throat, fever fatigue that tends to disappear after 7-10 days. Colds usually spreads from person-to-person contact i.e. being close to or coming into direct contact with someone who has it.\nMeanwhile, an allergic reaction occurs when immune system overreacts to normally harmless substance(s) called allergens like pollen,dust mites,animal dander etc.\nSymptoms include itching in eyes,nose ,throat; sneezing excessively running nose which can be seasonal or chronic if exposed daily.\nAllergic reactions aren't contagious and often occur on exposure to known stimulus.\n"
+    },
+    {
+        "instruction": "Describe the roles of producers, consumers, and decomposers in an ecosystem.",
+        "input": "<noinput>",
+        "output": "An ecosystem is a community of organisms interacting with each other and their environment. In this system, various organisms play different roles.\nProducers are mainly plants that produce their own food through photosynthesis by converting light energy into chemical energy. Producers release oxygen as they carry out this process helping maintain atmospheric balance while forming the base of food web; being primary source for other living beings .\nConsumers come in four types commonly known as herbivores, carnivores, omnivores and detritivores.\nHerbivores consume only plant matter, carnivores eat animals or meat exclusively, and omnivores feed on both animal and plant based sources\nDetritivores typically breakdown dead organic matter released from all aforementioned types providing nutrients to soil\nDecomposers are fungi,bacteria,and some insects which break down dead organic matter by secreting chemicals which can be absorbed further by roots or utilized for themselves after 'digesting it'.\nThese three groups have essential influences on maintaining ecological balance within any given environment while ensuring continuation of nutrient cycle necessary for survival.\n"
+    },
+    {
+        "instruction": "Generate a recipe for homemade pizza.",
+        "input": "<noinput>",
+        "output": "\nIngredients:\n1 pound pizza dough (homemade or store-bought)\n1/2 cup pizza sauce\n2 cups shredded mozzarella cheese\nOptional toppings:\nSliced pepperoni\nSliced onions, bell peppers, mushrooms\nChopped herbs like basil or oregano\n"
+    },
+    {
+        "instruction": "Instructions:",
+        "input": "1. Preheat the oven to 450\u00b0F and position rack in the middle section of oven.",
+        "output": "2. Roll out pizza dough using flour dusted rolling pin or hands until it reaches around half inch thickness over parchment paper .\n3. Spread pizza sauce evenly over surface leaving an empty border of about quarter inch from edge so that crust still gets crispy\n4. Add shredded mozzarella on top of sauced area covering till two centimeters away from crust border; you may add other type(s) of cheese too as per choice.\n5. Add desired toppings premixed together such as sliced pepperoni ,onions etc before baking .\n6. Carefully slide parchment with assembled pizza onto a heated baking sheet,cake pan,stone depending on what\u2019s available ; Bake for around15 -20 minutes until cheese starts bubbling up and crust begins browning slightly.\n7. Once done, remove from oven and sprinkle chopped herbs if desired before cutting into slices for serving hot!\n"
+    },
+    {
+        "instruction": "Enjoy home-made pizza!"
+    },
+    {
+        "instruction": "Describe the process of respiration in the human body.",
+        "input": "<noinput>",
+        "output": "\nRespiration is a vital function performed by every living organism, and humans are no exception. It is the process of taking in oxygen and releasing carbon dioxide as part of energy production to meet body's metabolic demands.\n"
+    },
+    {
+        "instruction": "Identify the author and publication date of the book \"The Catcher in the Rye\".",
+        "input": "<noinput>",
+        "output": "\nAuthor - J.D Salinger\nPublication Date - July 16, 1951\n"
+    },
+    {
+        "instruction": "Generate a list of the top 5 longest rivers in the world.",
+        "input": "<noinput>",
+        "output": "\n1. Nile River - 6,650 km (4,135 miles)\n2. Amazon River - 6,400 km (3,976 miles)\n3. Yangtze River - 6,300 km (3,917 miles)\n4. Mississippi-Missouri River System - 6,275 km (3,902 miles)\n5. Yenisei-Angara-Selenge Rivers - 5,539 km (3,445 miles)\n"
+    },
+    {
+        "instruction": "Describe the difference between a compound and a mixture.",
+        "input": "<noinput>",
+        "output": "\nA compound is a substance made up of two or more elements that are chemically bonded together in specific ratios. They usually cannot be separated into their individual components through physical means since they form a new substance altogether with different properties than originals.\nFor example, water (H2O) is a compound where hydrogen and oxygen combine covalently to create an electrically neutral molecule with unique boiling point ,viscosity, freezing temperature etc. This can only be broken down into simpler forms via chemical reaction.\nOn the other hand, a mixture is formed when two or more substances come together but aren't chemically combined leading to retention of original chemical composition/identity . Mixtures can be uniform as in homogeneous mixtures (e.g., solutions) or non-uniform as in heterogeneous ones which allows them to be separated when desired through various techniques based on size differences i.e. density, solubility , filtering , centrifugation etc.\nExamples of mixtures include air we breathe in composed mostly nitrogen,oxygen along with traces of other gases,population demographics comprising groups having varying age ranges,skin colors etc; Soft drinks being another example consisting dissolved flavorings,gases,and sweeteners mixed within carbonated water without undergoing any chemical bonding .\nThe major difference between compounds and mixtures lies in how its constituents interact chemically with one another determining whether it\u2019s possible for them to separate from each other on their own or not .\n"
+    },
+    {
+        "instruction": "Describe the structure of the Earth.",
+        "input": "<noinput>",
+        "output": "Earth is a terrestrial planet, and like any other celestial body, it has its own unique composition and structure.\nThe Earth can be divided into four main layers based on chemical and physical characteristics:\nCrust: The crust is the outer layer of the Earth which ranges in thickness from 5 to 70 km depending on where we measure it . It contains two types of rock - continental or granite rocks forming landmasses; and oceanic or basaltic rocks which make up ocean floors.\nMantle: This is deeper than crust with depth ranging between 35-2,900 km responsible for most mass volume of earth;\n- Divided into uppermost part called lithosphere (rigid) and below that asthenosphere more viscous plastically flowing layer extending downward till topmost region of core.\n"
+    },
+    {
+        "instruction": "3.Core",
+        "input": "This composed mainly iron-nickel alloy occupies central part beneath mantle.",
+        "output": "- Divided into outer liquid layer (liquid part),and inner solid layer \n"
+    },
+    {
+        "instruction": "4.Inner Core",
+        "input": "This innermost section lies at very center having approximate radius around 1220km characterized by high temperature (5000 \u00b0C ) and pressure compared to rest containing dense solid crystals due to sustained compression forces"
+    },
+    {
+        "instruction": "Overall, this structural complexity not only influences how everything appears above us but also serves as crucial contributor to life sustaining conditions on earth through constant heat energy transfer from interior towards surface level affecting climate ,magnetic field generation preventing atmosphere loss etc.."
+    },
+    {
+        "instruction": "Identify the capital city of Australia.",
+        "input": "<noinput>",
+        "output": "The capital city of Australia is Canberra.\n"
+    },
+    {
+        "instruction": "Describe the function of the liver in the human body.",
+        "input": "<noinput>",
+        "output": "The liver is one of the largest organs in the human body and plays a vital role in various physiological processes.\nIts main functions include:\nMetabolism:\nThe liver metabolizes carbohydrates, fats, and proteins into usable forms by breaking down complex molecules into simpler ones that can be utilized as energy sources for different bodily organs.\nBile Production:\nBile produced by liver helps in digestion process by breaking down fatty foods .\nDetoxification:\nLiver helps to detoxify substances such as medications, drugs, and toxins accumulated via digestion or inhalation so it is easier for kidneys to excrete them out from our bodies essentially reducing toxic load on other organs .\nStorage:\nLiver serves as storage facility for certain vitamins (A,D,E,K),Iron etc before circulating throughout body when needed later.\nDisruption of these crucial functions (due to diseases like Hepatitis, Cirrhosis etc) can lead system-wide complications causing multiple life-threatening issues such as heart failure or diabetes making regular checkups necessary part of maintaining optimal health ."
+    }
+]
